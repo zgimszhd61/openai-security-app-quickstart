@@ -52,3 +52,17 @@ ProcessOn标志：页面左上角有ProcessOn的标志。
 给我一个基于Infer的quickstart
 给我一个基于SpotBugs的quickstart
 ```
+
+## 开源静态代码扫描器的调研
+```
+我正在做开源静态代码扫描器的调研，请给我提供一个表格，每一行包含7列，覆盖：主要支持的编程语言、影响力（大中小）、开源项目名、开源github地址、基础能力简介、优点、不足。
+其中表格里支持主流编程语言覆盖：
+1. python
+2. java
+3. typescript
+4. nodejs
+5. c/c++
+6. rust
+7. kotlin
+8. swiftui
+```
