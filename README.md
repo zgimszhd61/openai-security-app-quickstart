@@ -50,4 +50,5 @@ ProcessOn标志：页面左上角有ProcessOn的标志。
 给我一个基于Clang Static Analyzer的quickstart
 给我一个基于SonarQube的quickstart
 给我一个基于Infer的quickstart
+给我一个基于SpotBugs的quickstart
 ```
