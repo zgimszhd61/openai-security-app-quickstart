@@ -65,6 +65,7 @@ ProcessOn标志：页面左上角有ProcessOn的标志。
 6. rust
 7. kotlin
 8. swiftui
+9. golang
 ```
 
 ## 开源镜像安全扫描器的调研
